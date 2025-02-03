@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072910830136",
+    "project_id": "onesmart-d8635",
+    "storage_bucket": "onesmart-d8635.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072910830136:android:06c5395dc635416a16f4cd",
+        "android_client_info": {
+          "package_name": "com.example.one_smart_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV7F5ppQoDmhnbtCXaZCSKAVqtrgIBy7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
